@@ -18,7 +18,7 @@ After installing the package and restarting the editor:
 
 - Open the Command Pallete (`ctrl+shift+P` or `cmd+shift+P`).
 - Type "Install Package" and hit return.
-- Type "CoffeeScript" and hit return.
+- Type "Hyle" and hit return.
 
 ### via Source Control
 
